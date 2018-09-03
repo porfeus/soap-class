@@ -10,6 +10,7 @@ How to use:
 
 require 'SoapClass.php';
 
+//login, password, different servers time
 $SoapClass = new SoapClass('E_PARTNER', 'ALFAE313', -80);
 
 
